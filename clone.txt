@@ -1,1 +1,2 @@
-Explain what git clone does, in your words
+clone - this command allows you to get someone's repo with all files and directories, in exactly same shape that the original repo is, 
+The command includes itself consequence of several commands like (mkdir, cd dir, git init, git remote ..., git pull, cd ..)
