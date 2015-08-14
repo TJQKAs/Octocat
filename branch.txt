@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words
+branch - by different branches you can conduct changes in the same file and these changes will not affect to each other.
+Different branches - different changes 
