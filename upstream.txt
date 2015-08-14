@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for, in your own words
+
+"upstream" remote - use to send back the changes which somebody has already made, to the external repo.
